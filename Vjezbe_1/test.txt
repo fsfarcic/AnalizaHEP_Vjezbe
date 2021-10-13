@@ -1,0 +1,9 @@
+total 40
+-rwxr-xr-x. 1 fsfarcic fsfarcic 8808 Lis  6 13:37 a.out
+-rw-r--r--. 1 fsfarcic fsfarcic   50 Lis  6 13:29 output_3.txt
+-rw-r--r--. 1 fsfarcic fsfarcic    0 Lis 11 12:58 test.txt
+-rw-r--r--. 1 fsfarcic fsfarcic   36 Lis  6 12:51 Zadatak_2.txt
+-rw-r--r--. 1 fsfarcic fsfarcic   18 Lis 11 12:31 Zadatak_3.sh
+-rw-r--r--. 1 fsfarcic fsfarcic   91 Lis  6 13:37 Zadatak_4.cpp
+-rw-r--r--. 1 fsfarcic fsfarcic    0 Lis 10 18:32 Zadatak_5.cpp
+-rwxr-xr-x. 1 fsfarcic fsfarcic 8808 Lis 10 18:25 zd4.exe

@@ -1,0 +1,5 @@
+
+output_3.txt
+test.txt
+Zadatak_2.txt
+Zadatak_3.sh
